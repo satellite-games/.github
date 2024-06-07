@@ -1,0 +1,33 @@
+                 NEW HORIZONS OPEN SOURCE LICENSE
+                      Version 1, 07 June 2024
+
+Copyright (C) 2024 Leopold Hock <https://spuxx.dev/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                       TERMS AND CONDITIONS
+
+0. Definitions.
+
+"This License" refers to version 1 of the New Horizons Open Source License.
+
+"APGL-3.0" refers to version 3 of the GNU Affero General Public License. See: <https://www.gnu.org/licenses/agpl-3.0.en.html/>
+
+"Covered work" means any product, program or work that uses this license or is based on a product, program or work that uses this license.
+
+1. GNU Affero General Public License 3.0
+
+This license extends version 3 of the GNU Affero Public License (APGL-3.0) and is being applied to all covered work.
+All terms and conditions of the APGL-3.0 license apply as long as they are in direct contradiction with this license.
+This license applies additional terms and further restrictions as mentioned in the APGL-3.0 license.
+
+2. Misrepresentation
+
+As specified in AGPL-3.0 section 7 point c), It is required that any modified versions of covered work are marked in reasonable ways
+so users or consumers can easily recognize that the work is not original.
+
+2. Commercial Use
+
+As specified in AGPL-3.0 section 7, we impose a further restriction regarding commercial use. This license explicitely disallows any
+commercial use of any of the licensed products or related assets without explicit consent of the copryright holders mentioned in this license.
+You may not commercially (re-)distribute any covered work or otherwise use them commercially.
