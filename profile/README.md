@@ -18,4 +18,4 @@ If you'd like to contribute to the project, that's awesome! But please make sure
 
 ## ⚖ Licensing
 
-If you'd like to create your own work related to New Horizons, please make sure you have read and understood our [licensing](/LICENSE). New Horizons uses a dual-licensind model. In short: While most parts of [AGPL-3.0 license](/LICENSE_APGL-3) license apply to our products, we impose some more [limitations](/LICENSE_NEWHORIZONS). In particular, you are not allowed to use any of New Horizon's assets commercially without our explicit consent.
+If you'd like to create your own work related to New Horizons, please make sure you have read and understood how these works are licensed. New Horizons uses a dual-licensind model. In short: While most parts of [AGPL-3.0 license](/LICENSE_APGL-3) license apply to our products, we impose some more [limitations](/LICENSE_NEWHORIZONS). In particular, you are not allowed to use any of New Horizon's assets commercially without our explicit consent.
